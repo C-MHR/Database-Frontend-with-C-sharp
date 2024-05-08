@@ -1,0 +1,10 @@
+C:\Users\OUR Laptop\source\repos\MHR\MHR\bin\Debug\MHR.exe.config
+C:\Users\OUR Laptop\source\repos\MHR\MHR\bin\Debug\MHR.exe
+C:\Users\OUR Laptop\source\repos\MHR\MHR\bin\Debug\MHR.pdb
+C:\Users\OUR Laptop\source\repos\MHR\MHR\obj\Debug\MHR.csprojAssemblyReference.cache
+C:\Users\OUR Laptop\source\repos\MHR\MHR\obj\Debug\MHR.Form1.resources
+C:\Users\OUR Laptop\source\repos\MHR\MHR\obj\Debug\MHR.Properties.Resources.resources
+C:\Users\OUR Laptop\source\repos\MHR\MHR\obj\Debug\MHR.csproj.GenerateResource.cache
+C:\Users\OUR Laptop\source\repos\MHR\MHR\obj\Debug\MHR.csproj.CoreCompileInputs.cache
+C:\Users\OUR Laptop\source\repos\MHR\MHR\obj\Debug\MHR.exe
+C:\Users\OUR Laptop\source\repos\MHR\MHR\obj\Debug\MHR.pdb
